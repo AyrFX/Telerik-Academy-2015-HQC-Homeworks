@@ -1,0 +1,4 @@
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\FactoryMethodDemo\bin\Debug\FactoryMethodDemo.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\FactoryMethodDemo\bin\Debug\FactoryMethodDemo.pdb
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\FactoryMethodDemo\obj\Debug\FactoryMethodDemo.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\FactoryMethodDemo\obj\Debug\FactoryMethodDemo.pdb

@@ -1,0 +1,8 @@
+
+------ StyleCop 4.7 (build 4.7.49.0) started ------
+
+Pass 1:   02.Log4NetDemo - \Log4NetDemo.cs
+
+------ StyleCop completed ------
+
+========== Violation Count: 0 ==========

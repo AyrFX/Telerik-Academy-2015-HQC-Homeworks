@@ -1,0 +1,5 @@
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\Singleton\bin\Debug\Singleton.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\Singleton\obj\Debug\Singleton.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\Singleton\obj\Debug\Singleton.pdb

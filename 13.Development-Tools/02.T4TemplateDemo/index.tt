@@ -1,0 +1,31 @@
+﻿<#@ output extension=".htm" #>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>T4 Generated HTML File Demo</title>
+</head>
+<body>
+	<table border="1">
+
+		<#
+			for(int row = 0; row < 7; row++)
+			{
+		#>
+			<tr>
+				<#
+				for (int col = 0; col < 7; col++)
+				{
+				#>
+					<td>row = <#=row#>
+					; col = <#=col#></td>
+				<#
+				}
+				#>
+			</tr>
+		<#
+			} 
+		#>
+	</table>
+</body>
+</html>

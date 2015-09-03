@@ -1,0 +1,4 @@
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\BuilderDemo\bin\Debug\BuilderDemo.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\BuilderDemo\bin\Debug\BuilderDemo.pdb
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\BuilderDemo\obj\Debug\BuilderDemo.dll
+D:\Work\Telerik Academy Homeworks\08.High-Quality Code\14.Creational Patterns\CreationalPatterns\BuilderDemo\obj\Debug\BuilderDemo.pdb
