@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="FacadeDemo.Facade">
+    <Position X="1" Y="2" Width="2" />
+    <AssociationLine Name="a" Type="FacadeDemo.SubSystemA" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="2" />
+        <Point X="2" Y="1" />
+        <Point X="4.25" Y="1" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>SAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAQAAAAAAAAA=</HashCode>
+      <FileName>FacadeClass.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="a" />
+      <Field Name="b" />
+      <Field Name="c" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FacadeDemo.SubSystemA">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>SubSystems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.SubSystemB">
+    <Position X="4.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>SubSystems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.SubSystemC">
+    <Position X="4.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>SubSystems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

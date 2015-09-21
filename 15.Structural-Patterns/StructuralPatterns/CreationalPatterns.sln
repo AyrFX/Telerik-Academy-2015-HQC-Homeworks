@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDemo", "FacadeDemo\FacadeDemo.csproj", "{3270AF02-ADF5-4A64-BAB8-2927A6090E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeDemo", "CompositeDemo\CompositeDemo.csproj", "{A1D12BA9-CBFD-4608-B3EF-5EDEF6E5823B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightDemo", "FlyweightDemo\FlyweightDemo.csproj", "{52D1234C-E8DE-41D7-994A-7FCD4291617F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3270AF02-ADF5-4A64-BAB8-2927A6090E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3270AF02-ADF5-4A64-BAB8-2927A6090E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3270AF02-ADF5-4A64-BAB8-2927A6090E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3270AF02-ADF5-4A64-BAB8-2927A6090E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D12BA9-CBFD-4608-B3EF-5EDEF6E5823B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D12BA9-CBFD-4608-B3EF-5EDEF6E5823B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D12BA9-CBFD-4608-B3EF-5EDEF6E5823B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D12BA9-CBFD-4608-B3EF-5EDEF6E5823B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D1234C-E8DE-41D7-994A-7FCD4291617F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D1234C-E8DE-41D7-994A-7FCD4291617F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D1234C-E8DE-41D7-994A-7FCD4291617F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D1234C-E8DE-41D7-994A-7FCD4291617F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

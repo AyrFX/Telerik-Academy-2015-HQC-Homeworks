@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlyweightDemo.ConcreteFlyweight1">
+    <Position X="1.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFlyweight1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDemo.ConcreteFlyweight2">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFlyweight2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDemo.ConcreteFlyweight3">
+    <Position X="6.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFlyweight3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDemo.Flyweight">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDemo.FlyweightFactory">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAI=</HashCode>
+      <FileName>FlyweightFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="flyweightList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
