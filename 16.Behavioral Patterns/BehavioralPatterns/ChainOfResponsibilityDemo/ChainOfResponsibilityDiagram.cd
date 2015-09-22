@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChainOfResponsibilityDemo.ConcreteHandler1">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandler1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDemo.ConcreteHandler2">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandler2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDemo.ConcreteHandler3">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandler3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDemo.ConcreteHandler4">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandler4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDemo.Handler">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <AssociationLine Name="Successor" Type="ChainOfResponsibilityDemo.Handler" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="1.312" />
+        <Point X="6" Y="1.312" />
+        <Point X="6" Y="0.75" />
+        <Point X="5.75" Y="0.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Handler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Successor" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
